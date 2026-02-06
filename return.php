@@ -1,6 +1,6 @@
 <?php
 /*
-Return Policy 15: Art and Collectibles
+Return Policy 7: Clothing and Apparel
 Generated on: <?php echo date("F j, Y"); ?>
 */
 ?>
@@ -9,176 +9,150 @@ Generated on: <?php echo date("F j, Y"); ?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Art and Collectibles Return Policy</title>
+    <title>Clothing and Apparel Return Policy</title>
     <style>
-        body { font-family: 'Palatino', serif; line-height: 1.8; margin: 40px auto; max-width: 1000px; padding: 30px; background-color: #faf0e6; }
-        h1 { color: #8b4513; border-bottom: 4px double #d2691e; padding-bottom: 20px; text-align: center; }
-        h2 { color: #556b2f; margin-top: 40px; padding: 15px; background: linear-gradient(to right, #f5f5dc, transparent); border-left: 5px solid #6b8e23; }
-        .art-notice { background-color: #f0fff0; border: 3px solid #98fb98; padding: 25px; margin: 35px 0; }
-        .authentication-box { background-color: #fff3cd; border: 2px solid #ffc107; padding: 20px; margin: 25px 0; }
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; line-height: 1.8; margin: 40px auto; max-width: 1000px; padding: 30px; background-color: #fdfdfd; }
+        h1 { color: #c0392b; border-bottom: 4px solid #e74c3c; padding-bottom: 20px; text-align: center; }
+        h2 { color: #16a085; margin-top: 40px; padding: 15px; background-color: #ecf0f1; border-left: 5px solid #1abc9c; }
+        .clothing-notice { background-color: #fff3cd; border: 3px solid #ffc107; padding: 25px; margin: 35px 0; }
+        .hygiene-box { background-color: #e8f4f8; border: 2px solid #b6d4e3; padding: 20px; margin: 25px 0; }
     </style>
 </head>
 <body>
-    <h1>Art and Collectibles Return Policy</h1>
+    <h1>Clothing and Apparel Return Policy</h1>
     
-    <div class="art-notice">
-        <h2>Art and Collectibles Return Information</h2>
-        <p>Artworks and collectible items have unique return considerations due to authenticity, condition, and subjective value. Please review this policy carefully.</p>
+    <div class="clothing-notice">
+        <h2>Clothing Return Guidelines</h2>
+        <p>Clothing returns require special attention to hygiene and condition. Please review this policy before returning apparel items.</p>
     </div>
 
-    <h2>1. Art and Collectibles Return Eligibility</h2>
-    <p>Original artworks and collectibles may be returned within 14 days of receipt, provided they are in exactly the same condition as shipped. Due to the unique nature of these items and authentication requirements, returns are more restrictive than standard products. Some items may be marked as final sale.</p>
+    <h2>1. Clothing Return Eligibility</h2>
+    <p>Clothing and apparel may be returned within 30 days of delivery, provided they meet strict condition requirements. Due to hygiene considerations, we cannot resell clothing that has been worn, altered, or shows signs of use. Always try on clothing over your own undergarments and on clean surfaces.</p>
 
-    <div class="authentication-box">
-        <h3>Authentication Required</h3>
-        <p>All art and collectible returns undergo authentication to verify the item matches what was shipped and maintains its described condition and provenance.</p>
+    <div class="hygiene-box">
+        <h3>Hygiene Requirements</h3>
+        <p>All returned clothing must be in hygienic, unworn condition. Items with odors, stains, makeup, deodorant marks, or pet hair cannot be accepted for return or exchange.</p>
     </div>
 
-    <h2>2. Condition Requirements for Art Returns</h2>
-    <p>Returned artworks and collectibles must be:</p>
+    <h2>2. Condition Requirements for Clothing Returns</h2>
+    <p>Returned clothing must be:</p>
     <ul>
-        <li>In exactly the same condition as received</li>
-        <li>No new scratches, dents, or damage of any kind</li>
-        <li>Original framing, matting, and backing untouched</li>
-        <li>Certificates of authenticity included and unaltered</li>
-        <li>No new signatures, markings, or alterations</li>
-        <li>Protective packaging materials preserved</li>
-        <li>No exposure to direct sunlight, moisture, or extreme temperatures</li>
-        <li>Surface clean and free of new marks or residues</li>
+        <li>Unworn, unwashed, and unaltered</li>
+        <li>With all original tags attached and intact</li>
+        <li>Free of odors, stains, or residues</li>
+        <li>In original packaging when applicable</li>
+        <li>Without any signs of try-on wear</li>
+        <li>All buttons, zippers, and fasteners intact</li>
+        <li>No perfume, deodorant, or makeup transfer</li>
     </ul>
-    <p>Condition is assessed by specialists familiar with the specific medium.</p>
+    <p>We inspect all clothing returns thoroughly. Items failing inspection will be returned to you at your expense.</p>
 
-    <h2>3. Different Art Categories Policies</h2>
-    <p>Various art forms have specific requirements:</p>
+    <h2>3. Try-On Guidelines</h2>
+    <p>To ensure return eligibility, follow these try-on guidelines:</p>
+    <ol>
+        <li>Wash hands before handling clothing</li>
+        <li>Try on over your own undergarments</li>
+        <li>Use clean, dry surfaces (not carpets)</li>
+        <li>Remove jewelry that could snag fabric</li>
+        <li>Avoid trying on while wearing makeup or lotions</li>
+        <li>Keep tags outside clothing during try-on</li>
+        <li>Do not force items that clearly don't fit</li>
+    </ol>
+    <p>Following these guidelines preserves clothing condition for possible return.</p>
+
+    <h2>4. Final Sale Clothing Items</h2>
+    <p>The following clothing items are typically final sale:</p>
     <table>
         <tr>
-            <th>Art Type</th>
-            <th>Return Window</th>
-            <th>Special Requirements</th>
+            <th>Item Type</th>
+            <th>Reason</th>
         </tr>
         <tr>
-            <td>Original Paintings</td>
-            <td>14 days</td>
-            <td>Surface must be pristine, no new brush marks</td>
+            <td>Underwear and Swimwear</td>
+            <td>Hygiene restrictions</td>
         </tr>
         <tr>
-            <td>Limited Edition Prints</td>
-            <td>14 days</td>
-            <td>Number must match certificate</td>
+            <td>Personalized/Embroidered</td>
+            <td>Cannot be resold</td>
         </tr>
         <tr>
-            <td>Sculpture</td>
-            <td>14 days</td>
-            <td>No new chips, cracks, or patina changes</td>
+            <td>Final Sale Marked Items</td>
+            <td>Clearance or special purchase</td>
         </tr>
         <tr>
-            <td>Photography</td>
-            <td>14 days</td>
-            <td>No new handling marks on surface</td>
+            <td>Altered or Hemmed Items</td>
+            <td>Customized for specific customer</td>
         </tr>
         <tr>
-            <td>Antiques</td>
-            <td>7 days</td>
-            <td>Age-related characteristics must be unchanged</td>
-        </tr>
-        <tr>
-            <td>Commissioned Works</td>
-            <td>Non-returnable</td>
-            <td>Created specifically for buyer</td>
+            <td>Cosmetics-Stained Items</td>
+            <td>Damage from improper try-on</td>
         </tr>
     </table>
+    <p>Final sale items are clearly marked during checkout.</p>
 
-    <h2>4. Commissioned and Custom Artwork</h2>
-    <p>Commissioned artworks are generally non-returnable:</p>
+    <h2>5. Size and Fit Exchanges</h2>
+    <p>We understand sizing can vary. For size exchanges:</p>
     <ul>
-        <li>Created specifically to your specifications</li>
-        <li>Cannot be resold to another collector</li>
-        <li>Deposits are typically non-refundable</li>
-        <li>Progress approvals during creation are binding</li>
-        <li>Minor revisions may be possible during creation</li>
+        <li>Exchange for different size of same item (subject to availability)</li>
+        <li>No additional shipping charges for size exchanges within return window</li>
+        <li>Price differences refunded or charged as applicable</li>
+        <li>Expedited processing for size exchanges</li>
     </ul>
-    <p>Review commission terms carefully before proceeding.</p>
+    <p>For best fit, refer to our size charts and measurement guides. When in doubt between sizes, order both and return one.</p>
 
-    <h2>5. Authentication and Provenance Documentation</h2>
-    <p>Authentication documents must accompany returns:</p>
-    <ul>
-        <li>Certificates of authenticity must be included</li>
-        <li>Provenance documentation must be intact</li>
-        <li>Appraisal documents if provided</li>
-        <li>Artist statements or exhibition histories</li>
-        <li>Any documentation provided must be returned</li>
-    </ul>
-    <p>Lost or damaged documentation may reduce refund amount.</p>
-
-    <h2>6. Framing and Presentation Considerations</h2>
-    <p>If artwork was framed by us:</p>
-    <ul>
-        <li>Frame must be undamaged</li>
-        <li>Glass or acrylic must be unscratched</li>
-        <li>Matting must be clean and unbent</li>
-        <li>Hanging hardware must be intact</li>
-        <li>Custom framing is generally non-returnable</li>
-    </ul>
-    <p>Consider unframed options if unsure about framing preferences.</p>
-
-    <h2>7. Shipping and Handling for Returns</h2>
-    <p>Art returns require special shipping:</p>
+    <h2>6. Defective Clothing Items</h2>
+    <p>If you receive defective clothing (manufacturing flaws), contact us within 7 days:</p>
     <ol>
-        <li>Must use professional art shippers</li>
-        <li>Original packaging materials should be reused</li>
-        <li>Insurance for full value required</li>
-        <li>Temperature-controlled shipping may be necessary</li>
-        <li>Tracking and signature required</li>
-        <li>Photograph packaging process for documentation</li>
+        <li>Provide clear photos showing defect</li>
+        <li>We determine if defect is manufacturing or damage</li>
+        <li>If manufacturing defect: full refund or replacement</li>
+        <li>Prepaid return label provided for defective items</li>
     </ol>
-    <p>We can recommend qualified art shippers for returns.</p>
+    <p>Minor variations in dye lots, stitching, or fabric pattern are not considered defects.</p>
 
-    <h2>8. International Art Returns</h2>
-    <p>International art returns are complex:</p>
+    <h2>7. Return Shipping for Clothing</h2>
+    <p>Return shipping for clothing is customer responsibility unless:</p>
     <ul>
-        <li>Export/import regulations may apply</li>
-        <li>Customs documentation must be accurate</li>
-        <li>Cultural heritage restrictions may apply to某些items</li>
-        <li>Higher insurance and shipping costs</li>
-        <li>Possible duties or taxes on return</li>
+        <li>Item is defective (we provide label)</li>
+        <li>We sent wrong item (we provide label)</li>
+        <li>You use our prepaid return service (fee may apply)</li>
     </ul>
-    <p>Research regulations before international art purchases.</p>
+    <p>We recommend using trackable shipping and retaining receipt until refund processes.</p>
 
-    <h2>9. Display and Storage During Return Consideration</h2>
-    <p>If considering return, protect the artwork:</p>
+    <h2>8. Processing Time for Clothing Returns</h2>
+    <p>Clothing returns typically process within:</p>
     <ul>
-        <li>Keep in original packaging if possible</li>
-        <li>Store in climate-controlled environment</li>
-        <li>Avoid direct sunlight or moisture</li>
-        <li>Handle with clean gloves</li>
-        <li>Do not attempt cleaning or conservation</li>
-        <li>Keep away from pets, children, or hazards</li>
+        <li>Receipt at warehouse: 2-3 business days to check in</li>
+        <li>Inspection: 1-2 business days</li>
+        <li>Refund processing: 3-5 business days after approval</li>
+        <li>Total time: 7-14 business days from when we receive return</li>
     </ul>
-    <p>Proper care maintains return eligibility.</p>
+    <p>During peak seasons (holidays), processing may take additional 3-5 business days.</p>
 
-    <h2>10. Subjectivity and Personal Taste</h2>
-    <p>Art appreciation is subjective, however:</p>
+    <h2>9. International Clothing Returns</h2>
+    <p>International clothing returns have additional considerations:</p>
     <ul>
-        <li>Color variations (monitor vs. actual) are not defects</li>
-        <li>Size perception in space varies from expectations</li>
-        <li>Texture and detail may differ from digital images</li>
-        <li>Personal taste changes are not grounds for return</li>
-        <li>Buyer's remorse is generally not accepted for return</li>
+        <li>Higher shipping costs—consider before ordering</li>
+        <li>Customs documentation required</li>
+        <li>Possible import/export restrictions on certain fabrics</li>
+        <li>Longer processing times (additional 2-3 weeks)</li>
     </ul>
-    <p>Request additional photos or details before purchasing if uncertain.</p>
+    <p>We recommend careful sizing and review before international clothing orders.</p>
 
-    <h2>11. Restoration and Conservation Issues</h2>
-    <p>If artwork has condition issues:</p>
+    <h2>10. Sale and Promotional Clothing</h2>
+    <p>Clothing purchased during sales or promotions:</p>
     <ul>
-        <li>Report immediately upon receipt</li>
-        <li>Do not attempt restoration yourself</li>
-        <li>We may arrange professional assessment</li>
-        <li>Options may include restoration credit</li>
-        <li>Major undisclosed damage may warrant full return</li>
+        <li>May be returned for refund at sale price</li>
+        <li>Exchange for other sale items at same price point</li>
+        <li>Refund difference if exchanging for higher-priced item</li>
+        <li>No refund of difference if exchanging for lower-priced item</li>
     </ul>
-    <p>Document any issues with photographs immediately.</p>
+    <p>Some promotional clothing may be final sale—clearly marked during sale.</p>
 
-    <h2>12. Contact for Art Returns</h2>
-    <p>Contact our art consultants with item details, photos of current condition, and reason for return. For valuable items, we may arrange specialized inspection and return logistics.</p>
+    <h2>11. Gift Returns for Clothing</h2>
+    <p>Clothing gifts may be returned for store credit within return window. Gift giver will not be notified or refunded. Store credit is issued via electronic gift card. Original shipping costs are not refunded for gift returns.</p>
+
+    <h2>12. Contact for Clothing Returns</h2>
+    <p>Contact our apparel returns team with order number, item details, and reason for return. For fit issues, include your measurements to help with size recommendations for exchange.</p>
 </body>
 </html>
