@@ -1,10 +1,10 @@
 <?php
 $adr = [
-    "7865 Millie Rd; Rowena; NSW; 2387; Australia"
+    "1942 Murbko Rd Murbko SA 5320 Australia"
 ];
 
 $companyName = [
-    "Lias Co"
+    "Barton Inc"
 ];
 
 ?>
